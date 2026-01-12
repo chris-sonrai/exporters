@@ -42,7 +42,7 @@
   "homepage": "https://github.com/material-table-core/exporters#readme",
   "dependencies": {
     "filefy": "^0.1.11",
-    "jspdf": "^3.0.1",
+    "jspdf": "^4.0.0",
     "jspdf-autotable": "^3.6.0"
   },
   "devDependencies": {
